@@ -1,2 +1,3 @@
-# my-tree
-Hacktoberfest
+# my tree 
+# for hacktoberfest
+upted the image 
